@@ -1,4 +1,4 @@
-/*Sistema de detección de golpes para control de acceso a puertas.
+/*Sistema de detección de golpes para el control de acceso a puertas.
   Autor: Javier Vargas. El Hormiguero.
   Basado en proyecto de Grathio https://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/
   https://creativecommons.org/licenses/by/4.0/
